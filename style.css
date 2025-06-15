@@ -1,0 +1,13 @@
+
+body {
+    font-family: sans-serif;
+    background: #fffbe6;
+    text-align: center;
+    padding: 2rem;
+}
+#dog {
+    width: 200px;
+    cursor: pointer;
+    margin: 20px 0;
+}
+    
